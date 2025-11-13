@@ -1,0 +1,1 @@
+console.log('Domácí služby pro lidi - web úspěšně načten');
